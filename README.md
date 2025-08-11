@@ -26,7 +26,5 @@ The dataset contains **9,648 sales transactions** with the following columns:
 `Retailer`, `Region`, `State`, `City`, `Product`, `Price per Unit`, `Units Sold`, `Total Revenue`, `Sales Method`, `Gender`, `Invoice Date`.
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your dashboard here)*
-```markdown
-![Dashboard Preview](dashboard_screenshot.png)
-<img width="893" height="576" alt="Screenshot 2025-08-11 224152" src="https://github.com/user-attachments/assets/e35af7e3-03c6-4aab-9eb7-e8f6364ab21d" />
+<img width="893" height="576" alt="Screenshot 2025-08-11 224152" src="https://github.com/user-attachments/assets/24746fd7-c4fc-4439-b05e-6cbdd2c0e520" />
+
